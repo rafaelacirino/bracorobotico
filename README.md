@@ -102,4 +102,6 @@
 <p><b>Resultados</b></p>
 <br>
 <p><b>Conclusão</b></p>
+<br>
+<p>Com a elaboração deste trabalho, o grupo teve a oportunidade de colocar em prática nossos conhecimentos adquiridos na disciplina de prototipagem, bem como pode ser elaborado o braço robótico com o Fusion 360 através dos ensinamentos ministrados na aula. Sobre a</p>
 
