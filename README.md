@@ -45,7 +45,7 @@
 <br>
 <p>Lista de componentes utilizados:</p>
 <ul>
-  <li>Base;</li>
+  <li>Base:</li> componente base para o braço robótico e comporta o motor servo MG996R e tem o objetivo de movimentar o braço fazendo giro de 360º.
   <li>Haste 1;</li>
   <li>Haste 2;</li>
   <li>Base da garra;</li>
