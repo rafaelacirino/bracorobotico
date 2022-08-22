@@ -103,5 +103,11 @@
 <br>
 <p><b>Conclusão</b></p>
 <br>
-<p>Com a elaboração deste trabalho, o grupo teve a oportunidade de colocar em prática nossos conhecimentos adquiridos na disciplina de prototipagem, bem como pode ser elaborado o braço robótico com o Fusion 360 através dos ensinamentos ministrados na aula. Sobre a</p>
+<p>O processo de elaboração desse trabalho foi fundamental para expandir o cohecimento sobre prototipação e aplicar conhecimentos adquiridos na disciplina de prototipagem. Desde a criação do modelo 2D usando o software Fusion 360, até fatiamento para permitir a impressao usando o software cura, foi um um processo com obstáculos como:
+<ul>
+  <li>A falta de maturidade com a ferramenta;
+  <li>conhecimentos a respeito da funcionalidade de motores;</li>
+  <li>fazer com que detalhes como furos, abertura e posições ficassem extamente como deveriam ser</li>
+</ul>
+</p>
 
