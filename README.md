@@ -46,7 +46,7 @@
 <p>O braço robótico desenvolvido possui 4 graus de liberdade, o que possibilita que sejam executadas as tarefas com maior precisão. O braço projetado possui a função de manipular caixas na distribuidora de alimentos, por isso, as suas garras tem o formato de pinça. A seguir, serão relatadas as listas dos componentes utilizados e suas respectivas funções.</p>
 <p>Lista de componentes utilizados:</p>
 <ul>
-  <li>Base:</li> Componente base para o braço robótico e comporta o motor servo MG996R e tem o objetivo de movimentar o braço fazendo giro de 360º.
+  <li>Base:</li> Componente base para o braço robótico e comporta o motor servo MG996R e tem o objetivo de permitir a rotação do braço.
   <br>
   <img src="url">
   <br>
@@ -58,39 +58,43 @@
   <br>
   <img src="url">
   <br>
-  <li>Haste 2;</li>
+  <li>Haste 2;</li>Componente de conexão e de ecaixe para o motor servo MG996R para que sejam realizados movimentos verticais com o braço.
   <br>
   <img src="url">
   <br>
-  <li>Base da garra;</li>
+  <li>ARM 3:</li>Componete que une a garra e o braço de sustentação, ou seja, a haste anterior e permite o giro de 360º.
   <br>
   <img src="url">
   <br>
-  <li>Elo da garra;</li>
+  <li>Base da garra:</li>Componente de suporte de itens para as garras e suporta um motor servo
   <br>
   <img src="url">
   <br>
-  <li>Engrenagem 1;</li>
+  <li>Elo da garra:</li>Componentes que são responsáveis por permitir a movimentação da garra e conexão dos itens.
   <br>
   <img src="url">
   <br>
-  <li>Engrenagem 2;</li>
+  <li>Engrenagem 1:</li>Componente que permite a abertura ou fechamento da garra.
   <br>
   <img src="url">
   <br>
-  <li>Garra;</li> Localiza-se na extremidade do braço e tem a função de agarrar os objetos. Possui o formato de pinça, pois seu objetivo é pegar caixas, ou seja, movimentação de mercadorias.
+  <li>Engrenagem 2:</li>Componente que permite a abertura ou fechamento da garra.
   <br>
   <img src="url">
   <br>
-  <li>Servo disco;</li>
+  <li>Garra:</li> Localiza-se na extremidade do braço e tem a função de agarrar os objetos. Possui o formato de pinça, pois seu objetivo é pegar caixas, ou seja, movimentação de mercadorias.
   <br>
   <img src="url">
   <br>
-  <li>MG996R Servo Motor;</li>
+  <li>Servo disco:</li>Componete para unir a base da garra e a engrenagem.
   <br>
   <img src="url">
   <br>
-  <li>SG90 Micro Servo Motor;</li>
+  <li>MG996R Servo Motor:</li>Possui precisão em seus movimentos e dá 180 graus de liberdade para o componente. 
+  <br>
+  <img src="url">
+  <br>
+  <li>Servo Motor Micro 9G:</li>Possui precisão em seus movimentos e dá 180 graus de liberdade para o componente.
   <br>
   <img src="url">
   <br>
