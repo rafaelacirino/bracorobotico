@@ -43,19 +43,57 @@
 <br>
 <p><b>Atividades Executadas</b></p>
 <br>
+<p>O braço robótico desenvolvido possui 4 graus de liberdade, o que possibilita que sejam executadas as tarefas com maior precisão. O braço projetado possui a função de manipular caixas na distribuidora de alimentos, por isso, as suas garras tem o formato de pinça. A seguir, serão relatadas as listas dos componentes utilizados e suas respectivas funções.</p>
 <p>Lista de componentes utilizados:</p>
 <ul>
-  <li>Base:</li> componente base para o braço robótico e comporta o motor servo MG996R e tem o objetivo de movimentar o braço fazendo giro de 360º.
-  <li>Haste 1;</li>
+  <li>Base:</li> Componente base para o braço robótico e comporta o motor servo MG996R e tem o objetivo de movimentar o braço fazendo giro de 360º.
+  <br>
+  <img src="url">
+  <br>
+  <li>Haste:</li> Componente que fica localizado acima da base e tem o objetivo de estabelecer a conexão entre a base e a próxima haste. Tem um motor servo MG996R o qual permite que sejam realizados movimentos verticais.
+  <br>
+  <img src="url">
+  <br>
+  <li>Haste 1;</li> Componente que possui a função de conectar a base e as hastes de sustenção da pinça.
+  <br>
+  <img src="url">
+  <br>
   <li>Haste 2;</li>
+  <br>
+  <img src="url">
+  <br>
   <li>Base da garra;</li>
+  <br>
+  <img src="url">
+  <br>
   <li>Elo da garra;</li>
+  <br>
+  <img src="url">
+  <br>
   <li>Engrenagem 1;</li>
+  <br>
+  <img src="url">
+  <br>
   <li>Engrenagem 2;</li>
-  <li>Garra;</li>
+  <br>
+  <img src="url">
+  <br>
+  <li>Garra;</li> Localiza-se na extremidade do braço e tem a função de agarrar os objetos. Possui o formato de pinça, pois seu objetivo é pegar caixas, ou seja, movimentação de mercadorias.
+  <br>
+  <img src="url">
+  <br>
   <li>Servo disco;</li>
+  <br>
+  <img src="url">
+  <br>
   <li>MG996R Servo Motor;</li>
+  <br>
+  <img src="url">
+  <br>
   <li>SG90 Micro Servo Motor;</li>
+  <br>
+  <img src="url">
+  <br>
 </ul>
 <p><b>Resultados</b></p>
 <br>
