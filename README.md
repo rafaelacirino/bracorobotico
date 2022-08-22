@@ -92,7 +92,7 @@
   <br>
   <li>MG996R Servo Motor:</li>Possui precisão em seus movimentos e dá 180 graus de liberdade para o componente. 
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/main/mg996r-servo-s.jpg">
   <br>
   <li>Servo Motor Micro 9G:</li>Possui precisão em seus movimentos e dá 180 graus de liberdade para o componente.
   <br>
