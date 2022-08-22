@@ -96,7 +96,7 @@
   <br>
   <li>Servo Motor Micro 9G:</li>Possui precisão em seus movimentos e dá 180 graus de liberdade para o componente.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/main/micro9G.jpg">
   <br>
 </ul>
 <p><b>Resultados</b></p>
