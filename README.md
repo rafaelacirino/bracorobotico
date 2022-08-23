@@ -48,11 +48,11 @@
 <ul>
   <li>Base:</li> Componente base para o braço robótico e comporta o motor servo MG996R e tem o objetivo de permitir a rotação do braço.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/base.png">
   <br>
   <li>Haste:</li> Componente que fica localizado acima da base e tem o objetivo de estabelecer a conexão entre a base e a próxima haste. Tem um motor servo MG996R o qual permite que sejam realizados movimentos verticais.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Haste.png">
   <br>
   <li>Haste 1:</li> Componente que possui a função de conectar a base e as hastes de sustenção da pinça.
   <br>
@@ -60,35 +60,35 @@
   <br>
   <li>Haste 2;</li>Componente de conexão e de ecaixe para o motor servo MG996R para que sejam realizados movimentos verticais com o braço.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Braco2.png">
   <br>
   <li>ARM 3:</li>Componete que une a garra e o braço de sustentação, ou seja, a haste anterior e permite o giro de 360º.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Braco3.png">
   <br>
   <li>Base da garra:</li>Componente de suporte de itens para as garras e suporta um motor servo
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/basegarra.png">
   <br>
   <li>Elo da garra:</li>Componentes que são responsáveis por permitir a movimentação da garra e conexão dos itens.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/elogarra.png">
   <br>
   <li>Engrenagem 1:</li>Componente que permite a abertura ou fechamento da garra.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/engrenagem.png">
   <br>
   <li>Engrenagem 2:</li>Componente que permite a abertura ou fechamento da garra.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/engrenagem.png">
   <br>
   <li>Garra:</li> Localiza-se na extremidade do braço e tem a função de agarrar os objetos. Possui o formato de pinça, pois seu objetivo é pegar caixas, ou seja, movimentação de mercadorias.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/garra.png">
   <br>
   <li>Servo disco:</li>Componete para unir a base da garra e a engrenagem.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/servodisco.png">
   <br>
   <li>MG996R Servo Motor:</li>Possui precisão em seus movimentos e dá 180 graus de liberdade para o componente. 
   <br>
