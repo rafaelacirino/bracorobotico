@@ -107,6 +107,8 @@
 <br>
 <p>Arquivos STL<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20STL"> aqui</a>.</p>
 <br>
+<p>Vistas com medidas do Braço 1 (Arquivo Drawing)<a href="https://github.com/rafaelacirino/bracorobotico/blob/master/Vistas/Braco_1_Drawing_v1.pdf"> aqui</a></p>
+<br>
 <p><b>Conclusão</b></p>
 <br>
 <p>O processo de elaboração desse trabalho foi fundamental para expandir o cohecimento sobre prototipação e aplicar conhecimentos adquiridos na disciplina de prototipagem. Desde a criação do modelo 2D usando o software Fusion 360, até fatiamento para permitir a impressao usando o software cura, foi um um processo com obstáculos como:
