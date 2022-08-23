@@ -101,6 +101,8 @@
 </ul>
 <p><b>Resultados</b></p>
 <br>
+<p>Ao finalizar a elaboração do braço, tem-se como resultado um protótipo de um braço robótico que irá cumprir com a tarefa de realizar o transporte de caixas de um ponto a outro, visando acelerar os processos no ramo da agricultura.</p>
+<br>
 <p><b>Arquivos gerados:</b></p>
 <br>
 <p>Arquivos no formato .f3d<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20em%20.f3d"> aqui</a>.</p>
