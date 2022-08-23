@@ -62,7 +62,7 @@
   <br>
   <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Braco2.png">
   <br>
-  <li>ARM 3:</li>Componete que une a garra e o braço de sustentação, ou seja, a haste anterior e permite o giro de 360º.
+  <li>ARM 3:</li>Componete que une a garra e o braço de sustentação, ou seja, a haste anterior e permite o giro.
   <br>
   <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Braco3.png">
   <br>
