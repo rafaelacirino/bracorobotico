@@ -66,7 +66,7 @@
   <br>
   <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Braco3.png">
   <br>
-  <li>Base da garra:</li>Componente de suporte de itens para as garras e suporta um motor servo
+  <li>Base da garra:</li>Componente base para o suporte dos itens das garras e comporta o servo motor Micro 9G.
   <br>
   <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/basegarra.png">
   <br>
