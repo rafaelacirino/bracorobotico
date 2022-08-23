@@ -54,9 +54,9 @@
   <br>
   <img src="url">
   <br>
-  <li>Haste 1;</li> Componente que possui a função de conectar a base e as hastes de sustenção da pinça.
+  <li>Haste 1:</li> Componente que possui a função de conectar a base e as hastes de sustenção da pinça.
   <br>
-  <img src="url">
+  <img src="https://github.com/rafaelacirino/bracorobotico/blob/master/Lista%20de%20Componentes/Bra%C3%A7o1.png">
   <br>
   <li>Haste 2;</li>Componente de conexão e de ecaixe para o motor servo MG996R para que sejam realizados movimentos verticais com o braço.
   <br>
@@ -106,7 +106,7 @@
 <p>Arquivos no formato .f3d<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20em%20.f3d"> aqui</a>.</p>
 <br>
 <br>
-<p>Arquivo renderizado<a href=""> aqui</a>.</p>
+<p>Arquivo renderizado<a href="https://github.com/rafaelacirino/bracorobotico/blob/master/Arquivo%20Renderizado/Main_assembly_2022-Aug-23_04-07-49PM-000_CustomizedView37748103640_png.png"> aqui</a>.</p>
 <br>
 <p>Arquivos GCODE<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20GCODE"> aqui</a>.</p>
 <br>
