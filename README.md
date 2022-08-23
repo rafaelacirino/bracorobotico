@@ -103,6 +103,11 @@
 <br>
 <p><b>Arquivos gerados:</b></p>
 <br>
+<p>Arquivos no formato .f3d<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20em%20.f3d"> aqui</a>.</p>
+<br>
+<br>
+<p>Arquivo renderizado<a href=""> aqui</a>.</p>
+<br>
 <p>Arquivos GCODE<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20GCODE"> aqui</a>.</p>
 <br>
 <p>Arquivos STL<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%20STL"> aqui</a>.</p>
