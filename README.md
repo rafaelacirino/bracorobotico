@@ -116,6 +116,8 @@
 <br>
 <p>Vistas com medidas do Braço 1 (Arquivo Drawing)<a href="https://github.com/rafaelacirino/bracorobotico/blob/master/Vistas/Braco_1_Drawing_v1.pdf"> aqui</a></p>
 <br>
+<p>Arquivo Assembly: projeto completo<a href="https://github.com/rafaelacirino/bracorobotico/blob/master/Arquivo%20Renderizado/bra%C3%A7o_completo.f3z"> aqui</a>.</p>
+<br>
 <p>Relatório em PDF<a href="https://github.com/rafaelacirino/bracorobotico/blob/master/Relat%C3%B3rio/INSTITUTO%20FEDERAL%20DE%20EDUCA%C3%87%C3%83O%2C%20CI%C3%8ANCIA%20E%20TECNOLOGIA%20DA%20PARA%C3%8DBA.pdf"> aqui</a>.</p>
 <br>
 <p>Arquivos 3mf<a href="https://github.com/rafaelacirino/bracorobotico/tree/master/Arquivos%203mf"> aqui</a>.</p>
